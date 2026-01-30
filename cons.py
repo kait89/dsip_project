@@ -1,0 +1,22 @@
+DATE_TIME_PATTERN = '%Y-%m-%d_%H-%M-%S'
+
+DATA_DIR = 'data'
+DEFAULT_CSV_RAW_PATH = 'data/raw_data.csv'
+DEFAULT_TARGET_COLUMN = 'target'
+
+MODELS_DIR = 'models'
+DEFAULT_EPOCH_NUM = 20
+DEFAULT_MAX_STEPS = 20
+DEFAULT_BATCH_SIZE = 20
+FLAN_T5_BASE = 'flan_t5_base'
+DEFAULT_LEARNING_RATE = 0.5
+
+RESULTS_DIR = 'results'
+DEFFAULT_PREDICTION_NAME = 'prediction'
+
+BEST_MODEL = ''
+S3_CSV_PATH = ''
+
+ARCHIVED_EXPERIMENTS_DIR = 'archived_experiments'
+
+
